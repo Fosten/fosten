@@ -25,5 +25,5 @@ And with degree in writing/philosophy, I tend to bring a unique perspective to a
 [Agile]: https://agilealliance.org
 [Scrum]: https://scrum.org
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fosten&hide_border=true&theme=duskfox)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=fosten&hide_border=true&theme=duskfox)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fosten&show_icons=true&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
